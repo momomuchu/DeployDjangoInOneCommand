@@ -7,7 +7,7 @@ This is a starter Django app running on an EC2 instance.
 - AWS account
 - Terraform installed
 - Access key and secret access key for your AWS account
-- SSH key pair for accessing the EC2 instance
+
 
 ## Getting Started
 
